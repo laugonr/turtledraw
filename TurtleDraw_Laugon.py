@@ -1,3 +1,9 @@
+#Turtle Draw 
+#
+#By: Ruben Laugon
+#Credit: Eric Pouge 
+
+
 print('TurtleDraw Starting...')
 
 
