@@ -68,7 +68,7 @@ while line:
 
 # Todo: Display total distance
 turtleDraw_Laugon.penup()
-turtleDraw_Laugon.goto(180, -220)
+turtleDraw_Laugon.goto(180, -150)
 turtleDraw_Laugon.color("black")
 turtleDraw_Laugon.write(f"Total Distance: {total_distance:.2f}", align="right", font=("Arial", 10, "normal"))
 
